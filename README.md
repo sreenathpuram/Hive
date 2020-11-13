@@ -3,7 +3,7 @@
 
 ## HR ChatBot -- A Helper to simplify complex workforce managment issues
 
-## Abstract *: In multi tier organizations, Maintinaing workforce and attributies in workplace could become tedious in long run. In order to simplify the same we introduce HR ChatBot
+## Abstract *: In multi tier organizations, Maintinaing workforce and attributies in workplace could become tedious in long run. In order to simplify the same we introduce HR ChatBot*
 
 ## Introduction *: While companies are looking to simplfy multiple workplace managmeent attributes, Both HR's and workforce tend to face diffculties with both simpler and complex tasks. In order to automate redundant tasks and simplafy work flow, this chat bot is created*
 
