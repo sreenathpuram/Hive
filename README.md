@@ -1,53 +1,30 @@
-# NOTE: Fork this repository to your own account to use/edit this template
 
 
-## GoodDocData -- A Template for Simple and Clear Documentation of Hackathon Analyses!
 
-*adapted from [NCBI-Hackathons/GoodDoc](https://github.com/NCBI-Hackathons/GoodDoc) with some tweaks for analysis-driven projects*
+## HR ChatBot -- A Helper to simplify complex workforce managment issues
 
-*instructions in italics can be deleted as sections are filled in*
+## Abstract *: In multi tier organizations, Maintinaing workforce and attributies in workplace could become tedious in long run. In order to simplify the same we introduce HR ChatBot*
 
-*most fields are optional, Conclusion and Important Resources are required*
+## Introduction *: While companies are looking to simplfy multiple workplace managmeent attributes, Both HR's and workforce tend to face diffculties with both simpler and complex tasks. In order to automate redundant tasks and simplafy work flow, this chat bot is created*
 
-## Please cite our work -- here is the ICMJE Standard Citation:
+## Methods *: We used Python NLTK platform to train chatbot on to particular intents and give signals to run functions. These signals can later be used to perform specifi automatic searching and data handling tasks on the server side*
 
-### ...and a link to the DOI: *You can make a free DOI with zenodo, synapse, figshare, or other resources <link>*
-
-## Awesome Logo *(if applicable)*
-
-## Website *(if applicable)*
-
-## Abstract *: Summarize everything in a few sentences.* 
-
-## Introduction *: What's the problem? Why should we solve it?*
-
-## Methods *: How did we go about solving it?*
-
-## Results *: What did we observe? Figures are great!*
+## Results *: We observed though NLTK library has been used to train the solution, Few intent based questions were'nt responded properly in the mean duration of training. THere is an additional need to increase resource and give more tags in dataset which could help in better training of the solution*
 
 ## Conclusion/Discussion: 
 
 ### Please make sure you address ALL of the following:
 
-#### *1. What additional data would you like to have*
+#### *1. Additonal Data: Data on how HR's interact in complex issues and how to make interactions more cognitive and human worthy*
 
-#### *2. What are the next rational steps?* 
+#### *2. Next Step: Visit Organizations and do market study for the solution* 
 
-#### *3. What additional tools or pipelines will be needed for those steps?*
+#### *3. Addtional Tools: Transformer based NLP tools for easier training and more realistic response predicitons*
 
-#### *4. What skills would additional collaborators ideally have?*
+#### *4. Skiils of Collabrators: Microsoft Power BI, Data Science, Conversational AI Specialist*
 
-## Reproduction: *How to reproduce the findings!*
+## Reproduction: *Run Jupyter notebook with requirments.py based packages installed*
 
-### Docker
 
-*The Docker image contains <R/jupyter> notebooks of all analyses and the dependencies to run them. *Be sure to note if you need any special credentials to access data for these analyses, **don't package restricted data** in your containers!*
-
-Instructions for running the following notebooks: *be sure to adjust these instructions as necessary! check out https://github.com/Sage-Bionetworks/nfhackathon2020/ for example containers and instructions*
-
-1. `docker pull <your dockerhub repo>/<this container>` command to pull the image from the DockerHub
-2. `docker run <your dockerhub repo>/<this container>` Run the docker image from the master shell script
-
-### Important Resources *: primary data, github repository, Synapse project, dockerfile link etc.*
 
 
