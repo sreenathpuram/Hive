@@ -143,7 +143,7 @@ sweetviz==1.0a7
 talos==0.6.6
 tensorboard==1.14.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==1.14.0
+tensorflow==2.3.1
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.15.2
 tensorflow-gpu-estimator==2.1.0
