@@ -35,7 +35,7 @@ google-pasta==0.1.8
 grpcio==1.27.2
 h5py==2.10.0
 helper==2.4.2
-httplib2==0.18.1
+httplib2==0.19.0
 idna==2.9
 image==1.5.28
 imagehelper==0.5.0
