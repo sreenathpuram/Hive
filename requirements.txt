@@ -65,7 +65,7 @@ kerasplotlib==0.1.6
 kiwisolver==1.1.0
 labelme2coco==0.1.2
 lesscpy==0.14.0
-lxml==4.5.2
+lxml==4.6.3
 Markdown==3.2.1
 MarkupSafe==1.1.1
 mathparse==0.1.2
